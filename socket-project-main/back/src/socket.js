@@ -32,6 +32,5 @@ export function createSocket(httpServer) {
       console.log('Cliente desconectado:', socket.id);
     });
   });
-
   return io;
 }

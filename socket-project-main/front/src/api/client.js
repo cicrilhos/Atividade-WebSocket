@@ -6,6 +6,7 @@ const Client = axios.create({
   headers: {
     'Content-Type': 'application/json',
   },
+  
 })
 
 const Socket = io('http://localhost:3333', { autoConnect: false }, {
