@@ -78,7 +78,7 @@ export default function Login() {
                     Sair
                 </button>
             </div>
-
+            
             <div className="chat">
                 {salaAtual ? (
                     <>
