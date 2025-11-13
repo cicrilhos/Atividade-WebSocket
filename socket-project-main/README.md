@@ -1,4 +1,4 @@
-Davi, Gabriel
+Davi Marcelino da Silva e Gabriel Maletzke de Avelar
 Disciplina: Introdução à Redes
 
 ## Tecnologias Utilizadas
